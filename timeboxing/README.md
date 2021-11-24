@@ -26,3 +26,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm install -g json-server json-server-auth`
 
 ### `npm install -g express`
+![postmanpic](https://user-images.githubusercontent.com/45298383/143294839-ebc99a72-90f3-4cd2-ac68-7b1bc9327522.png)
